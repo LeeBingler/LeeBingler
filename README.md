@@ -19,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leebingler&show_icons=true&theme=tokyonight&title_color=ffac1c&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="leebingler" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leebingler&theme=highcontrast" alt="leebingler" /></p>
+<img alt="Lee's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeeBingler&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=0D1117" />
