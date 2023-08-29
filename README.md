@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js/Express**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **web developement**
 
 - 📫 How to reach me **binglerlee@gmail.com**
 
