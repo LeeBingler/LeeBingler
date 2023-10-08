@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **GSAP**
 
-- 💬 Ask me about **web developement**
-
 - 📫 How to reach me **binglerlee@gmail.com**
 
 - ⚡ Fun fact **I love the univers of Lovecraft and horror movie**
